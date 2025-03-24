@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=A531F7&background=FFAA3F00&width=435&lines=%E2%80%9CFirst%2C+Solve+the+Problem.+Then%2C+Write+the+Code.%E2%80%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=A531F7&background=FFAA3F00&multiline=true&width=435&lines=%E2%80%9CFirst%2C+Solve+the+Problem.+Then%2C+Write+the+Code.%E2%80%9D)](https://git.io/typing-svg)
 
 <!--
 **DiegoFA04/DiegoFA04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
