@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=A531F7&background=FFAA3F00&multiline=true&width=605&lines=%E2%80%9CFirst%2C+Solve+the+Problem.+Then%2C+Write+the+Code.%E2%80%9D)](https://git.io/typing-svg)
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUyZzJhcGpmZ2MyZm5td3B2dGtjMXJyNThqZ2Jkd3YwaXVna3h2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
 
 ###
