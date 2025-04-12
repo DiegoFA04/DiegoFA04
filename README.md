@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=A531F7&background=FFAA3F00&multiline=true&width=605&lines=%E2%80%9CFirst%2C+Solve+the+Problem.+Then%2C+Write+the+Code.%E2%80%9D)](https://git.io/typing-svg)
 <div align="center">
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmUyZzJhcGpmZ2MyZm5td3B2dGtjMXJyNThqZ2Jkd3YwaXVna3h2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif"  />
 </div>
@@ -9,8 +8,8 @@
   <a href="https://www.linkedin.com/in/diegofa04/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
- <!--  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /> -->
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
@@ -29,7 +28,7 @@
 
 ###
 
-<p align="left">Hello, I'm Diego! 👋<br>I'm a fourth-year Software Engineering student at Universidad Peruana de Ciencias Aplicadas 🎓. I'm passionate about full-stack development 💻, with hands-on experience in both frontend and backend development 🔧. I've also worked on microservices projects 🚀, which has deepened my understanding of scalable architectures. I thrive in collaborative environments 🤝 and love learning new technologies 🌟. Let's build something amazing together!</p>
+<p align="left">Hello, I'm Diego! 👋<br>I'm a third-year Software Engineering student at Universidad Peruana de Ciencias Aplicadas 🎓. I'm passionate about full-stack development 💻, with hands-on experience in both frontend and backend development 🔧. I've also worked on microservices projects 🚀, which has deepened my understanding of scalable architectures. I thrive in collaborative environments 🤝 and love learning new technologies 🌟. Let's build something amazing together!</p>
 
 ###
 
